@@ -1,0 +1,12 @@
+.DS_Store
+
+obj/
+
+bin/
+
+.git/
+.vs/
+.idea/
+
+
+
